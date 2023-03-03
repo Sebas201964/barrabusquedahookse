@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/barrabusquedahookse/static/css/main.36ee2267.chunk.css",
+    "main.js": "/barrabusquedahookse/static/js/main.18f0dcea.chunk.js",
+    "main.js.map": "/barrabusquedahookse/static/js/main.18f0dcea.chunk.js.map",
+    "runtime-main.js": "/barrabusquedahookse/static/js/runtime-main.2951b4d5.js",
+    "runtime-main.js.map": "/barrabusquedahookse/static/js/runtime-main.2951b4d5.js.map",
+    "static/css/2.af34670d.chunk.css": "/barrabusquedahookse/static/css/2.af34670d.chunk.css",
+    "static/js/2.5ec961e2.chunk.js": "/barrabusquedahookse/static/js/2.5ec961e2.chunk.js",
+    "static/js/2.5ec961e2.chunk.js.map": "/barrabusquedahookse/static/js/2.5ec961e2.chunk.js.map",
+    "static/js/3.340cc91e.chunk.js": "/barrabusquedahookse/static/js/3.340cc91e.chunk.js",
+    "static/js/3.340cc91e.chunk.js.map": "/barrabusquedahookse/static/js/3.340cc91e.chunk.js.map",
+    "index.html": "/barrabusquedahookse/index.html",
+    "static/css/2.af34670d.chunk.css.map": "/barrabusquedahookse/static/css/2.af34670d.chunk.css.map",
+    "static/css/main.36ee2267.chunk.css.map": "/barrabusquedahookse/static/css/main.36ee2267.chunk.css.map",
+    "static/js/2.5ec961e2.chunk.js.LICENSE.txt": "/barrabusquedahookse/static/js/2.5ec961e2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2951b4d5.js",
+    "static/css/2.af34670d.chunk.css",
+    "static/js/2.5ec961e2.chunk.js",
+    "static/css/main.36ee2267.chunk.css",
+    "static/js/main.18f0dcea.chunk.js"
+  ]
+}
